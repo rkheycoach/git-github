@@ -1,2 +1,2 @@
 # git-github
-learning
+This is RK and I'm learning GIT
